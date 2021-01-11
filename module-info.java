@@ -1,0 +1,3 @@
+module EjercicioPanel {
+	exports principal;
+}
